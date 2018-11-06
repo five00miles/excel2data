@@ -5,6 +5,7 @@
 * 目录下需要有：data.xlsx
 * npm install
 * 在该目录下打开终端 `$ node app.js`
+* 该目录下生成的daya.js即需要的文件
 
 输出的格式
 ```js
